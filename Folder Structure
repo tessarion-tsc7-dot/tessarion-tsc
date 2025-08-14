@@ -1,0 +1,42 @@
+tessarion-tsc/
+├── public/
+│   ├── favicon.ico
+│   ├── logo.svg
+│   ├── hero-bg.mp4
+│   └── placeholder-chart.png
+│
+├── pages/
+│   ├── index.js
+│   ├── dashboard.js
+│   ├── learn/
+│   │   └── index.js
+│   ├── news.js
+│   ├── contact.js
+│   ├── admin.js
+│   ├── recovery.js
+│   └── auth/
+│       ├── login.js
+│       └── signup.js
+│
+├── components/
+│   ├── Navbar.js
+│   ├── Footer.js
+│   ├── HeroSection.js
+│   ├── FeaturesGrid.js
+│   ├── Testimonials.js
+│   ├── MarketHighlights.js
+│   ├── DashboardCharts.js
+│   ├── AIInsights.js
+│   └── ContactForm.js
+│
+├── styles/
+│   ├── globals.css
+│   └── tailwind.css
+│
+├── .env.local
+├── next.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+├── README.md
+└── vercel.json
